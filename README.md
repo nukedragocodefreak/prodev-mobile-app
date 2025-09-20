@@ -1,7 +1,7 @@
-Welcome to your Expo app 👋
+# Welcome to my Expo app 👋
 
 This is an Expo project created with create-expo-app.
-Get started
+## Get started
 
 Install dependencies
 
